@@ -1,0 +1,15 @@
+﻿# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.nupkg
+*.snupkg
+packages/
+*.log
+*.cache
+Thumbs.db
+.DS_Store
